@@ -37,7 +37,6 @@ SPEED = 100
 
 # Wczytanie obrazków
 food_image = pygame.image.load('img.png')
-head_image_template = pygame.image.load('img_1.png')
 
 class SnakeGame:
 
